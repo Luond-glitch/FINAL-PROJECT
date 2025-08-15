@@ -61,9 +61,7 @@ fish_app/
 ├── ios/                  # iOS specific files
 ├── test/                 # Test files
 └── pubspec.yaml          # Project dependencies
-Screenshots 📸
-Login Screen	Catch Form	Catches List
-https://screenshots/login.png	https://screenshots/form.png	https://screenshots/list.png
+
 Contributing 🤝
 Contributions are welcome! Please follow these steps:
 
@@ -83,9 +81,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact 📧
 For questions or suggestions, please contact:
 
-Your Name - your.email@example.com
 
-Project Link: https://github.com/yourusername/fish_app
 
 text
 
